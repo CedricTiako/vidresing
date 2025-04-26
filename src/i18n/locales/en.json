@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "collections": "Collections",
+    "professionals": "Professionals",
+    "profile": "Profile"
+  },
+  "home": {
+    "hero": {
+      "title": "Sell Your Luxury Items with Confidence",
+      "subtitle": "Connect with professional sellers to maximize the value of your luxury wardrobe",
+      "cta": "Start Selling"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "steps": {
+        "collection": {
+          "title": "Request Collection",
+          "description": "Schedule a convenient time for our professional sellers to evaluate your items"
+        },
+        "valuation": {
+          "title": "Professional Valuation",
+          "description": "Get expert evaluation and pricing for your luxury items"
+        },
+        "sale": {
+          "title": "Secure Sale",
+          "description": "Let our professionals handle the sale while you track progress"
+        }
+      }
+    },
+    "why": {
+      "title": "Why Choose Vidressing?",
+      "description": "We connect you with verified professional sellers who specialize in luxury resale. Our platform ensures security, transparency, and maximum value for your items.",
+      "learnMore": "Learn more about our process →"
+    }
+  },
+  "professionals": {
+    "title": "Our Professional Sellers",
+    "subtitle": "Meet our carefully selected professional sellers who specialize in luxury resale. Each expert is verified and maintains high standards of service.",
+    "features": {
+      "verified": {
+        "title": "Verified Experts",
+        "description": "All our professionals undergo thorough verification and regular quality checks."
+      },
+      "topRated": {
+        "title": "Top Rated",
+        "description": "Our sellers maintain exceptional ratings and customer satisfaction."
+      },
+      "proven": {
+        "title": "Proven Track Record",
+        "description": "Successfully completed hundreds of luxury item sales."
+      }
+    }
+  },
+  "collections": {
+    "title": "My Collections",
+    "subtitle": "Track and manage your luxury item collections. Our professional sellers will handle the entire process for you.",
+    "status": {
+      "pending": "Pending",
+      "estimated": "Estimated",
+      "completed": "Completed"
+    },
+    "collection": {
+      "id": "Collection #{{id}}",
+      "estimated": "Estimated: €{{price}}"
+    },
+    "newCollection": "Request New Collection"
+  },
+  "profile": {
+    "memberSince": "Member since {{date}}",
+    "personalInfo": "Personal Information",
+    "editProfile": "Edit Profile",
+    "saveChanges": "Save Changes",
+    "fields": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    },
+    "accountSettings": {
+      "title": "Account Settings",
+      "changePassword": "Change Password",
+      "notifications": "Notification Preferences",
+      "privacy": "Privacy Settings",
+      "deleteAccount": "Delete Account"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "About Vidressing",
+      "description": "Luxury resale platform connecting affluent sellers with professional vendors."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "about": "About Us",
+      "contact": "Contact",
+      "privacy": "Privacy Policy"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "Email: contact@vidressing.com",
+      "phone": "Phone: +1 (555) 123-4567"
+    },
+    "copyright": "© {{year}} Vidressing. All rights reserved."
+  }
+}

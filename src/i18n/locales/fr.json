@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "collections": "Collections",
+    "professionals": "Professionnels",
+    "profile": "Profil"
+  },
+  "home": {
+    "hero": {
+      "title": "Vendez vos Articles de Luxe en Toute Confiance",
+      "subtitle": "Connectez-vous avec des vendeurs professionnels pour maximiser la valeur de votre garde-robe de luxe",
+      "cta": "Commencer à Vendre"
+    },
+    "howItWorks": {
+      "title": "Comment ça Marche",
+      "steps": {
+        "collection": {
+          "title": "Demande de Collecte",
+          "description": "Planifiez un rendez-vous pour que nos vendeurs professionnels évaluent vos articles"
+        },
+        "valuation": {
+          "title": "Évaluation Professionnelle",
+          "description": "Obtenez une expertise et une estimation de vos articles de luxe"
+        },
+        "sale": {
+          "title": "Vente Sécurisée",
+          "description": "Laissez nos professionnels gérer la vente tout en suivant son évolution"
+        }
+      }
+    },
+    "why": {
+      "title": "Pourquoi Choisir Vidressing ?",
+      "description": "Nous vous mettons en relation avec des vendeurs professionnels vérifiés, spécialisés dans la revente de luxe. Notre plateforme garantit sécurité, transparence et valeur maximale pour vos articles.",
+      "learnMore": "En savoir plus sur notre processus →"
+    }
+  },
+  "professionals": {
+    "title": "Nos Vendeurs Professionnels",
+    "subtitle": "Rencontrez nos vendeurs professionnels soigneusement sélectionnés, spécialisés dans la revente de luxe. Chaque expert est vérifié et maintient des standards de service élevés.",
+    "features": {
+      "verified": {
+        "title": "Experts Vérifiés",
+        "description": "Tous nos professionnels font l'objet d'une vérification approfondie et de contrôles réguliers."
+      },
+      "topRated": {
+        "title": "Hautement Notés",
+        "description": "Nos vendeurs maintiennent des notes exceptionnelles et la satisfaction client."
+      },
+      "proven": {
+        "title": "Expérience Prouvée",
+        "description": "Des centaines de ventes d'articles de luxe réalisées avec succès."
+      }
+    }
+  },
+  "collections": {
+    "title": "Mes Collections",
+    "subtitle": "Suivez et gérez vos collections d'articles de luxe. Nos vendeurs professionnels s'occupent de tout le processus pour vous.",
+    "status": {
+      "pending": "En Attente",
+      "estimated": "Estimé",
+      "completed": "Terminé"
+    },
+    "collection": {
+      "id": "Collection #{{id}}",
+      "estimated": "Estimé : {{price}}€"
+    },
+    "newCollection": "Demander une Nouvelle Collection"
+  },
+  "profile": {
+    "memberSince": "Membre depuis le {{date}}",
+    "personalInfo": "Informations Personnelles",
+    "editProfile": "Modifier le Profil",
+    "saveChanges": "Enregistrer les Modifications",
+    "fields": {
+      "email": "Email",
+      "phone": "Téléphone",
+      "address": "Adresse"
+    },
+    "accountSettings": {
+      "title": "Paramètres du Compte",
+      "changePassword": "Changer le Mot de Passe",
+      "notifications": "Préférences de Notification",
+      "privacy": "Paramètres de Confidentialité",
+      "deleteAccount": "Supprimer le Compte"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "À Propos de Vidressing",
+      "description": "Plateforme de revente de luxe connectant vendeurs fortunés et professionnels."
+    },
+    "quickLinks": {
+      "title": "Liens Rapides",
+      "about": "À Propos",
+      "contact": "Contact",
+      "privacy": "Politique de Confidentialité"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "Email : contact@vidressing.com",
+      "phone": "Téléphone : +1 (555) 123-4567"
+    },
+    "copyright": "© {{year}} Vidressing. Tous droits réservés."
+  }
+}
