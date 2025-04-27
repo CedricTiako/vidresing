@@ -46,7 +46,7 @@ export default function Contact() {
               <Mail className="w-6 h-6 text-[#7406c7]" />
               <div>
                 <h3 className="font-semibold">Email</h3>
-                <p className="text-gray-600">contact@vidressing.com</p>
+                <p className="text-gray-600">contact@vidressing.net</p>
               </div>
             </div>
             <div className="flex items-center space-x-4 mb-4">

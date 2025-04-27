@@ -82,8 +82,8 @@ export default function Privacy() {
           <p className="text-gray-600">
             If you have any questions about this Privacy Policy or our data practices, please contact us at:
             <br />
-            <a href="mailto:privacy@vidressing.com" className="text-[#7406c7] hover:text-[#5c0599]">
-              privacy@vidressing.com
+            <a href="mailto:privacy@vidressing.net" className="text-[#7406c7] hover:text-[#5c0599]">
+              privacy@vidressing.net
             </a>
           </p>
         </div>
